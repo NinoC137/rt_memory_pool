@@ -1,0 +1,3 @@
+D:/Nino/mempool/memory_manager_c/build/CMakeFiles/MemoryManager.dir
+D:/Nino/mempool/memory_manager_c/build/CMakeFiles/edit_cache.dir
+D:/Nino/mempool/memory_manager_c/build/CMakeFiles/rebuild_cache.dir

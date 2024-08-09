@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Nino/mempool/memory_manager_c/build",
+  "command": "D:/soft/WorkSofe/MinGw-w64/sofe/bin/gcc.exe  @CMakeFiles/MemoryManager.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/MemoryManager.dir/main.c.obj -c D:/Nino/mempool/memory_manager_c/main.c",
+  "file": "D:/Nino/mempool/memory_manager_c/main.c",
+  "output": "CMakeFiles/MemoryManager.dir/main.c.obj"
+}
+]
